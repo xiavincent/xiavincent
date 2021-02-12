@@ -1,5 +1,5 @@
 ### Hi there 👋
-Nice to meet you, and thanks for visiting my GitHub page!
+Thanks for visiting my GitHub page!
 
 <!--
 **xiavincent/xiavincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
