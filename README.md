@@ -1,6 +1,9 @@
 ### Hi there 👋
-Thanks for visiting my GitHub page! I'm currently finishing up my undergraduate and master's degree at Stanford.
-I'm working on developing my personal website here: https://github.com/xiavincent 
+Thanks for visiting my GitHub page! I'm currently finishing up my undergraduate and master's degree at Stanford. My research code is currently in a private repository, but will be published publicly soon!
+
+I'm also working on developing my personal website here: https://github.com/xiavincent 
+
+
 
 <!--
 **xiavincent/xiavincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
