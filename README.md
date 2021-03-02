@@ -1,5 +1,5 @@
 ### Hi there 👋
-Thanks for visiting my GitHub page! I'm currently finishing up my undergraduate and master's degree at Stanford. My research code is currently in a private repository, but will be published publicly soon!
+Thanks for visiting my GitHub page! I'm currently finishing up my undergraduate and master's degree at Stanford. My research code is in a private repository right now, but will be published publicly soon!
 
 I'm also working on developing my personal website here: https://github.com/xiavincent 
 
