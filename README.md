@@ -1,7 +1,7 @@
 ### Hi there 👋
-Thanks for visiting my GitHub page! I'm doing my undergraduate and master's degree at Stanford in Chemical Engineering and Bioengineering, respectively. My research code is in a private repository right now, but will be published publicly soon!
+Thanks for visiting my GitHub page! I'm doing my undergraduate and master's degree at Stanford in Chemical Engineering and Bioengineering, respectively. Most of my research code can be found on my GitHub.
 
-I'm developing my personal website here: https://xiavincent.github.io 
+I'm developing my personal website here: https://xiavincent.github.io (right now, it's just a website template)
 
 
 
