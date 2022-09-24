@@ -3,6 +3,7 @@ Thanks for visiting my GitHub page! I'm doing my undergraduate and master's degr
 
 I'm developing my personal website here: https://xiavincent.github.io (right now, it's just a website template)
 
+https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/621847
 
 
 <!--
