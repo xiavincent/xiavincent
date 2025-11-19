@@ -1,10 +1,7 @@
 ### Hi there 👋
-Thanks for visiting my GitHub page! I'm doing my undergraduate and master's degree at Stanford in Chemical Engineering and Bioengineering, respectively. Most of my research code can be found on my GitHub.
+Thanks for visiting my GitHub page! I'm doing my PhD in Bioengineering at UPenn right now. Most of my research code can be found on my GitHub.
 
 I'm developing my personal website here: https://xiavincent.github.io (right now, it's just a website template)
-
-
-Quantifying Effects of Polar Lipid Proportions on Model Tear Film Stability: https://aiche.confex.com/aiche/2021/meetingapp.cgi/Paper/621847
 
 
 <!--
