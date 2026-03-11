@@ -1,9 +1,6 @@
 ### Hi there 👋
 I am an MD-PhD candidate at the University of Pennsylvania. I'm currently doing my PhD in Bioengineering with Scott Canna and Derek Oldridge at the Children's Hospital of Philadelphia using spatial transcriptomic Xenium data. Most of my research code can be found on my GitHub.
 
-I'm developing my personal website here: https://xiavincent.github.io (right now, it's just a website template)
-
-
 <!--
 **xiavincent/xiavincent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
