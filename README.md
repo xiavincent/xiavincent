@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am an MD-PhD candidate at the University of Pennsylvania. I'm doing my PhD in Bioengineering with Scott Canna and Derek Oldridge at the Children's Hospital of Philadelphia. Most of my research code can be found on my GitHub.
+I am an MD-PhD candidate at the University of Pennsylvania. I'm currently doing my PhD in Bioengineering with Scott Canna and Derek Oldridge at the Children's Hospital of Philadelphia. Most of my research code can be found on my GitHub.
 
 I'm developing my personal website here: https://xiavincent.github.io (right now, it's just a website template)
 
